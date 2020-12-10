@@ -1,4 +1,4 @@
-# testPackage
+# testPackageDennis
 Returns true if the input is either undefined, null, or empty, false otherwise
 ## Usage
 Install the package using npm :
